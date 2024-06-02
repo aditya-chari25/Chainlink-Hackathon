@@ -15,3 +15,5 @@ You can use the below faucets for the same. <br>
 [https://www.alchemy.com/faucets/ethereum-sepolia](https://www.alchemy.com/faucets/ethereum-sepolia) <br>
 [https://faucets.chain.link/sepolia][https://faucets.chain.link/sepolia]
 
+## Application When Running
+![screenshot](snap-shot.png)
